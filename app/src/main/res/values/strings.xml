@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">OMDB</string>
+    <string name="btn_search">Search</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="tv_year">year</string>
+    <string name="enter_movie_name_here">Enter Movie Name</string>
+    <string name="tv_plot">Plot</string>
+    <string name="lbl_plot">Plot:</string>
+    <string name="tv_actors">actors</string>
+    <string name="lbl_actors">Actors:</string>
+    <string name="add_to_fav">ADD to Favorites</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_favorites">Favorites</string>
+    <string name="btn_delete">Delete</string>
+</resources>
