@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">OMDB</string>
+    <string name="app_name">MovieManager</string>
     <string name="btn_search">Search</string>
     <string name="movie_title">Movie Title</string>
     <string name="tv_year">year</string>
